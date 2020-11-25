@@ -1,4 +1,4 @@
-package com.algaworks.osworks;
+package com.rocket.osworks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
